@@ -10,5 +10,4 @@ int ottieni_N(string nomefile);
 void caricaVettore(string nomefile, string v[]);
 void scambia(char &a, char &b);
 void ordinaParola(string &parola);
-
 void controllaOccorrenze(string parola);
