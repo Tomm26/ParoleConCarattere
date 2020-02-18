@@ -61,7 +61,7 @@ void controllaOccorrenze(string parola) {
 			t = true;
 			j++;
 		}
-		if (t) k++;//se ho trovato più di una parola, vado alla lettera successiva
+		if (t) k++;//se ho trovato più di una lettera, vado alla lettera successiva
 		i = j-1;//faccio un salto nel for per ritrovarmi alla nuova lettera differente
 	}
 
